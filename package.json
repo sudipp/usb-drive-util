@@ -1,0 +1,24 @@
+{
+  "name": "usb-drive-util",
+  "version": "1.0.0",
+  "description": "usb drive utility for NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "usb",
+    "util",
+    "driveutil"
+  ],
+  "author": "Sudip Purkayastha",
+  "license": "ISC",
+  "dependencies": {
+    "diskspace": "^2.0.0",
+    "drivelist": "^6.1.8",
+    "lodash": "^4.17.10",
+    "mkdirp": "^0.5.1",
+    "usb": "^1.3.1"
+  }
+}
